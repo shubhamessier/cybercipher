@@ -1,0 +1,40 @@
+{
+  "name": "cybercipher",
+  "version": "1.0.0",
+  "description": "Cybercipher is a Advanced string handling zero dependency package for javascript, it features constant time comparison, data masking and etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamessier/cybercipher"
+  },
+  "keywords": [
+    "Security",
+    "Strings",
+    "Data",
+    "Cryptography",
+    "Hashing",
+    "String",
+    "Handling"
+  ],
+  "author": {
+    "name": "Shubham Gaur",
+    "lang": "en",
+    "email": "shubham.guar7116@gmail.com",
+    "url": "https://shubhamessier.github.io/portfolio/"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhamessier/ironclad-string/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cybercipher": "file:",
+    "securestring": "file:",
+    "securify": "file:"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
